@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarStyle">@style/thin_ab_style</item>
+    </style>
+
+    <style name="thin_ab_style">
+        <item name="android:background">@drawable/sumekslogo</item>
+        <item name="android:icon">@drawable/sumekslogo</item>
+        <item name="icon">@drawable/sumekslogo</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/news"
+        android:title="Berita"/>
+    <item
+        android:id="@+id/katagori"
+        android:icon="@drawable/category"
+        android:title="Kategori"/>
+    <item
+        android:id="@+id/favorite_menu"
+        android:icon="@drawable/favorites_standby"
+        android:title="Favorite"/>
+    <item
+        android:id="@+id/akun"
+        android:icon="@drawable/account"
+        android:title="Akun"/>
+</menu>
